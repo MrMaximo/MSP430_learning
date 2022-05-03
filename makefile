@@ -1,8 +1,9 @@
 # Nome do projeto
-PROJ_NAME = button
+PROJ_NAME = ALTERAR AQUI
 
 # Microcontrolador
-MCU = msp430g2231
+MCU = ALTERAR AQUI
+#MCU = msp430g2231
 
 # Arquivos .c
 C_SOURCE = $(wildcard *.c)
