@@ -11,9 +11,9 @@ Along with learning this family of microcontrollers, I also take the opportunity
 ## Projects
 
 1. Hello World!
-	Blink built-in LEDs
+	- Blink built-in LEDs
 2. Button
-	Toggle built-in LEDs with button pressing
+	- Toggle built-in LEDs with button pressing
 3. Interrupt Button
-	Doing the same thing, but now with interruptions
+	- Doing the same thing, but now with interruptions
 4. *Work in progress*
