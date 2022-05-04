@@ -12,7 +12,7 @@ Along with learning this family of microcontrollers, I also take the opportunity
 
 For now, the development board I will be using will be the LaunchPad MSP-EXP430G2. If I use another, I will update and specify in the files.
 
-![MSP-EXP430G2](/images/launchpad.jpg)
+<img src="/images/launchpad.jpg" alt="MSP-EXP430G2" width="200"/>
  
 ## Projects
 
