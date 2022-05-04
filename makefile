@@ -3,7 +3,7 @@ PROJ_NAME = ALTERAR AQUI
 
 # Microcontrolador
 MCU = ALTERAR AQUI
-#MCU = msp430g2231
+#MCU = msp430g2553
 
 # Arquivos .c
 C_SOURCE = $(wildcard *.c)
